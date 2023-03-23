@@ -266,8 +266,8 @@ export default function Home() {
                     name="userInput"
                     placeholder={
                       loading
-                        ? 'Waiting for response...'
-                        : 'What is this legal case about?'
+                        ? 'Searching the TSI Multiverse...'
+                        : 'What kind of programs do they offer?'
                     }
                     value={query}
                     onChange={(e) => setQuery(e.target.value)}
@@ -299,8 +299,8 @@ export default function Home() {
           </main>
         </div>
         <footer className="m-auto">
-          <a href="https://twitter.com/mayowaoshin">
-            Powered by LangChain, Supabase, NextJS, OpenAI and Pinecone. Demo built by Ross (Twitter: @mtsi_org).
+          <a href="https://twitter.com/tsi_org">
+            Powered by LangChain, Supabase, NextJS, OpenAI and Pinecone. Demo built by Ross (Twitter: @tsi_org).
           </a>
         </footer>
       </Layout>
