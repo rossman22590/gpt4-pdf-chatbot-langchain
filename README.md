@@ -8,7 +8,7 @@ Tech stack used includes LangChain, Pinecone, Typescript, Openai, and Next.js. L
 
 [Get in touch via twitter if you have questions](https://twitter.com/mayowaoshin)
 
-The visual guide of this repo and tutorial is in the `visual guide` folder.
+The visual guide of this repo and tutorial is in the `visual guide` folder. 
 
 **If you run into errors, please review the troubleshooting section further down this page.**
 
